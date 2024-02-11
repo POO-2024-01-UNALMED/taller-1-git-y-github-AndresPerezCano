@@ -1,3 +1,5 @@
-Andrés Pérez Cano
+Andres Perez Cano
 18
 Aprender sobre programacion orientada a objetos, y sobre algunos programas como python o java
+Porque la carpeta ya no esta vacia y esto representa un cambio en el repositorio y esto nos permite hacer un commit
+Porque se generan conflictos
